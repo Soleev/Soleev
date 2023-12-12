@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soleev
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in Laravel
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me? telegram @soleyev
 
 <!---
